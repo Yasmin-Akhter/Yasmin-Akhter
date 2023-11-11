@@ -8,9 +8,9 @@
 + 🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
 ## Skills
 - 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)
--🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Typescript
--🛠 Backend: Node.js, Express.js, MongoDB
--🔧 Tools: Git, npm, Webpack
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Typescript
+- 🛠 Backend: Node.js, Express.js, MongoDB
+- 🔧 Tools: Git, npm, Webpack
 
 - 🌱 I’m currently learning Mongoose 
 - 💬 Ask me about Web Development 
@@ -22,8 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-akhter)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-akhter&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasmin-akhter)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yasmin-akhter)  
 
