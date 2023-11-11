@@ -3,9 +3,9 @@
 ### Hi there 👋, I'm Yasmin Akhter
 #### a passionate web developer with a focus on the MERN stack.
 
--💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
--🎓 Graduated with a degree in [Your Field of Study] from [Your University].
--🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
+- 💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
+* 🎓 Graduated with a degree in [Your Field of Study] from [Your University].
++ 🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
 
 Skills:  REACT / JS / HTML / CSS/TypeScript/Node.JS/Express.JS/MongoDB/NEXT.JS
 
