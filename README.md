@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Yasmin Akhter</h1>
-<h3 align="center">MERN Developer</h3>
+### Hi there 👋, I'm Yasmin Akhter
+#### a passionate web developer with a focus on the MERN stack.
+![a passionate web developer with a focus on the MERN stack.](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-1/397945792_24158988703746757_8549841845180083521_n.jpg?stp=dst-jpg_p240x240&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqAD8hoWgZaimoUSiUlMYvDKyDzljoePkMrIPOWOh4-SxbvOsyDZWHPA3VBup6jzIxZY3Lexv5GBtEItm00BWT&_nc_ohc=BUtNGFBQ8g0AX_WDqsV&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDLKy9x6RvgDJwpYxK474fNDzl-A9QnC8iFOTjMj3kIhA&oe=655362B9)
+
+💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
+🎓 Graduated with a degree in [Your Field of Study] from [Your University].
+🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
+
+Skills:  REACT / JS / HTML / CSS/TypeScript/Node.JS/Express.JS/MongoDB/NEXT.JS
+
+- 🌱 I’m currently learning Mongoose 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: yasminbd@yahoo.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yasmin-akhter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yasmin-akhter//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/yasminbd89/)  
 
-- 🌱 I’m currently learning **TypeScript**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-akhter)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **Web development**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-akhter&show_icons=true)  
 
-- 📫 How to reach me **yasminbd89@yahoo.com**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasmin-akhter)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasmin akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin akhter" height="30" width="40" /></a>
-<a href="https://fb.com/yasmin akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasmin akhter" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yasmin-akhter)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmin-akhter&show_icons=true&locale=en&layout=compact" alt="yasmin-akhter" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmin-akhter&show_icons=true&locale=en" alt="yasmin-akhter" /></p>
