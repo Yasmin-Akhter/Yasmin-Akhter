@@ -1,6 +1,8 @@
+(https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-1/397945792_24158988703746757_8549841845180083521_n.jpg?stp=dst-jpg_p240x240&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqAD8hoWgZaimoUSiUlMYvDKyDzljoePkMrIPOWOh4-SxbvOsyDZWHPA3VBup6jzIxZY3Lexv5GBtEItm00BWT&_nc_ohc=BUtNGFBQ8g0AX_WDqsV&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDLKy9x6RvgDJwpYxK474fNDzl-A9QnC8iFOTjMj3kIhA&oe=655362B9)
 ### Hi there 👋, I'm Yasmin Akhter
 #### a passionate web developer with a focus on the MERN stack.
-![a passionate web developer with a focus on the MERN stack.](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-1/397945792_24158988703746757_8549841845180083521_n.jpg?stp=dst-jpg_p240x240&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFqAD8hoWgZaimoUSiUlMYvDKyDzljoePkMrIPOWOh4-SxbvOsyDZWHPA3VBup6jzIxZY3Lexv5GBtEItm00BWT&_nc_ohc=BUtNGFBQ8g0AX_WDqsV&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDLKy9x6RvgDJwpYxK474fNDzl-A9QnC8iFOTjMj3kIhA&oe=655362B9)
+![a passionate web developer with a focus on the MERN stack.]
+
 
 💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
 🎓 Graduated with a degree in [Your Field of Study] from [Your University].
