@@ -1,7 +1,7 @@
 ![a passionate web developer with a focus on the MERN stack.](https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
 
 ### Hi there 👋, I'm Yasmin Akhter
-#### a passionate web developer with a focus on the MERN stack.
+#### a passionate web developer with a focus on the MERN stack.I thrive on challenges and enjoy staying at the forefront of web development technologies.
 
 - 💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
 * 🎓 Graduated with a degree in CSE from Southern University Bangladesh.
