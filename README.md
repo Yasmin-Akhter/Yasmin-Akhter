@@ -4,10 +4,13 @@
 #### a passionate web developer with a focus on the MERN stack.
 
 - 💼 Currently working as a MERN stack developer, transforming ideas into high-performance web applications.
-* 🎓 Graduated with a degree in [Your Field of Study] from [Your University].
+* 🎓 Graduated with a degree in CSE from Southern University Bangladesh.
 + 🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
-
-Skills:  REACT / JS / HTML / CSS/TypeScript/Node.JS/Express.JS/MongoDB/NEXT.JS
+## Skills
+- 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)
+-🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Typescript
+-🛠 Backend: Node.js, Express.js, MongoDB
+-🔧 Tools: Git, npm, Webpack
 
 - 🌱 I’m currently learning Mongoose 
 - 💬 Ask me about Web Development 
