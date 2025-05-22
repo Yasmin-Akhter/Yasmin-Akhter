@@ -1,4 +1,4 @@
-![a passionate web developer with a focus on the MERN stack.](https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
+![a passionate web developer with a focus on the MERN stack.](https://img.freepik.com/premium-vector/software-development-coding-concept-programming-laptop-ui_375605-385.jpg?semt=ais_hybrid&w=740)
 
 ### Hi there 👋, I'm Yasmin Akhter
 #### a passionate web developer with a focus on the MERN stack.I thrive on challenges and enjoy staying at the forefront of web development technologies.
@@ -8,7 +8,7 @@
 + 🌐 Constantly exploring new technologies to stay ahead in the dynamic world of web development.
 ## Skills
 - 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Typescript
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, TypeScript
 - 🛠 Backend: Node.js, Express.js, MongoDB
 - 🔧 Tools: Git, npm, Webpack
 
