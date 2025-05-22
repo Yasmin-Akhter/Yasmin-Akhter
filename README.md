@@ -1,4 +1,4 @@
-![a passionate web developer with a focus on the MERN stack.](https://img.freepik.com/premium-vector/software-development-coding-concept-programming-laptop-ui_375605-385.jpg?semt=ais_hybrid&w=740)
+![a passionate web developer with a focus on the MERN stack.](https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg)
 
 ### Hi there 👋, I'm Yasmin Akhter
 #### a passionate web developer with a focus on the MERN stack.I thrive on challenges and enjoy staying at the forefront of web development technologies.
